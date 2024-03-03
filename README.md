@@ -34,4 +34,4 @@ Contributions to this project are welcome! If you have ideas for improvements, n
 
 
 
-[0][images/features.png]
+[0]: images/features.png
